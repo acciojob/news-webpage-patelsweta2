@@ -6,10 +6,9 @@ body {
 }
 .header {
 	text-align:center;
-	padding: 20px;
+	padding: 10px;
 	background-color: #011e29;
 	color:white;
-	font-size: 30px;
 }
 
 .content{
